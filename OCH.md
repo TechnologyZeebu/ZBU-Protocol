@@ -1,4 +1,4 @@
-# Invoice contract
+# OCH contract
 
 Invoice solidity contract is a sophisticated implementation designed to handle transactions and payments within a decentralized environment. It utilizes Ethereum's capabilities to secure transactions with digital signatures, manage fees, and distribute rewards using ERC-20 tokens.
 
