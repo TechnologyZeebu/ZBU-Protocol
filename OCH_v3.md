@@ -75,7 +75,7 @@ Operators manually deploy the clearing house contract using their tools and infr
     - Ensure sufficient native tokens (ETH, BNB) for gas fees.
     - Use tools like **Etherscan Gas Tracker** or **Blocknative.**
 3. **Smart Contract Dependencies:**
-    - Obtain the clearing house smart contract code from **Zeebu's repository.**
+    - Obtain the clearing house smart contract code from **[Zeebu's repository](./InvoicePSP.sol) .** 
     - Use compatible tools like **Hardhat, Truffle,** or **Remix** for development.
 4. **Development Environment:**
     - Install **Node.js** (v16+) and required libraries.
